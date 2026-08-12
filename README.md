@@ -318,7 +318,7 @@ result = chain.query("文档主要内容?")
 
 ### 演示视频
 
-[![观看演示视频](assets/image-16.png)](https://github.com/AXERA-TECH/OCR_RAG-AX650N/blob/main/assets/OCR_RAG2.mp4)
+[![观看演示视频](assets/image-16.png)](https://github.com/user-attachments/assets/6d5646b2-e988-4231-a196-5e7a54b8310e)
 
 > 👆 点击上方图片跳转播放视频
 
