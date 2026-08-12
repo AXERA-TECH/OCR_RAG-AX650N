@@ -318,7 +318,7 @@ result = chain.query("文档主要内容?")
 
 ### 演示视频
 
-[观看演示视频](assets/OCR_RAG2.mp4)
+<video controls src="assets/OCR_RAG2.mp4" width="100%"></video>
 
 ### 使用步骤
 
